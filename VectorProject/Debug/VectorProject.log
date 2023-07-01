@@ -1,0 +1,4 @@
+﻿  vectortemplate.cpp
+C:\Users\stygi\Desktop\IRL Stuff\OSU Folder\CS 491 Game Programming\VectorProject\vectortemplate.cpp(81,44): error C2039: 'to_string': is not a member of 'glm'
+C:\Users\stygi\Desktop\IRL Stuff\OSU Folder\CS 491 Game Programming\VectorProject\glm\gtc\matrix_inverse.inl(33): message : see declaration of 'glm'
+C:\Users\stygi\Desktop\IRL Stuff\OSU Folder\CS 491 Game Programming\VectorProject\vectortemplate.cpp(81,53): error C3861: 'to_string': identifier not found

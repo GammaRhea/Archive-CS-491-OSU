@@ -1,0 +1,33 @@
+﻿  sample.cpp
+C:\Users\stygi\Desktop\IRL Stuff\OSU Folder\CS 491 Game Programming\Particles\Particles2017WrapperNew\glui.h(758,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\stygi\Desktop\IRL Stuff\OSU Folder\CS 491 Game Programming\Particles\Particles2017WrapperNew\glui.h(758,31): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\stygi\Desktop\IRL Stuff\OSU Folder\CS 491 Game Programming\Particles\Particles2017WrapperNew\sample.cpp(247,53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\stygi\Desktop\IRL Stuff\OSU Folder\CS 491 Game Programming\Particles\Particles2017WrapperNew\sample.cpp(369,14): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\stygi\Desktop\IRL Stuff\OSU Folder\CS 491 Game Programming\Particles\Particles2017WrapperNew\sample.cpp(398,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\stygi\Desktop\IRL Stuff\OSU Folder\CS 491 Game Programming\Particles\Particles2017WrapperNew\sample.cpp(308,6): warning C4101: 'ti': unreferenced local variable
+C:\Users\stygi\Desktop\IRL Stuff\OSU Folder\CS 491 Game Programming\Particles\Particles2017WrapperNew\sample.cpp(307,6): warning C4101: 'j': unreferenced local variable
+C:\Users\stygi\Desktop\IRL Stuff\OSU Folder\CS 491 Game Programming\Particles\Particles2017WrapperNew\sample.cpp(453,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\stygi\Desktop\IRL Stuff\OSU Folder\CS 491 Game Programming\Particles\Particles2017WrapperNew\sample.cpp(477,19): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\stygi\Desktop\IRL Stuff\OSU Folder\CS 491 Game Programming\Particles\Particles2017WrapperNew\sample.cpp(651,27): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\stygi\Desktop\IRL Stuff\OSU Folder\CS 491 Game Programming\Particles\Particles2017WrapperNew\sample.cpp(658,37): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\stygi\Desktop\IRL Stuff\OSU Folder\CS 491 Game Programming\Particles\Particles2017WrapperNew\sample.cpp(662,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\stygi\Desktop\IRL Stuff\OSU Folder\CS 491 Game Programming\Particles\Particles2017WrapperNew\sample.cpp(663,19): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+C:\Users\stygi\Desktop\IRL Stuff\OSU Folder\CS 491 Game Programming\Particles\Particles2017WrapperNew\sample.cpp(665,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\stygi\Desktop\IRL Stuff\OSU Folder\CS 491 Game Programming\Particles\Particles2017WrapperNew\sample.cpp(667,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\stygi\Desktop\IRL Stuff\OSU Folder\CS 491 Game Programming\Particles\Particles2017WrapperNew\sample.cpp(668,19): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+C:\Users\stygi\Desktop\IRL Stuff\OSU Folder\CS 491 Game Programming\Particles\Particles2017WrapperNew\sample.cpp(672,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\stygi\Desktop\IRL Stuff\OSU Folder\CS 491 Game Programming\Particles\Particles2017WrapperNew\sample.cpp(674,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\stygi\Desktop\IRL Stuff\OSU Folder\CS 491 Game Programming\Particles\Particles2017WrapperNew\sample.cpp(43,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\stygi\Desktop\IRL Stuff\OSU Folder\CS 491 Game Programming\Particles\Particles2017WrapperNew\sample.cpp(1080,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\stygi\Desktop\IRL Stuff\OSU Folder\CS 491 Game Programming\Particles\Particles2017WrapperNew\sample.cpp(1081,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\stygi\Desktop\IRL Stuff\OSU Folder\CS 491 Game Programming\Particles\Particles2017WrapperNew\sample.cpp(1153,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\stygi\Desktop\IRL Stuff\OSU Folder\CS 491 Game Programming\Particles\Particles2017WrapperNew\sample.cpp(1181,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\stygi\Desktop\IRL Stuff\OSU Folder\CS 491 Game Programming\Particles\Particles2017WrapperNew\sample.cpp(1183,8): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\stygi\Desktop\IRL Stuff\OSU Folder\CS 491 Game Programming\Particles\Particles2017WrapperNew\sample.cpp(1184,8): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\stygi\Desktop\IRL Stuff\OSU Folder\CS 491 Game Programming\Particles\Particles2017WrapperNew\sample.cpp(1185,8): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\stygi\Desktop\IRL Stuff\OSU Folder\CS 491 Game Programming\Particles\Particles2017WrapperNew\sample.cpp(1249,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\stygi\Desktop\IRL Stuff\OSU Folder\CS 491 Game Programming\Particles\Particles2017WrapperNew\sample.cpp(1261,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\stygi\Desktop\IRL Stuff\OSU Folder\CS 491 Game Programming\Particles\Particles2017WrapperNew\sample.cpp(1266,39): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\stygi\Desktop\IRL Stuff\OSU Folder\CS 491 Game Programming\Particles\Particles2017WrapperNew\sample.cpp(1266,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+sample.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Sample.vcxproj -> C:\Users\stygi\Desktop\IRL Stuff\OSU Folder\CS 491 Game Programming\Particles\Particles2017WrapperNew\Debug\Sample.exe
